@@ -1,1 +1,1 @@
-# Error-Statistics-of-DNAstorage
+# Error Statistics of DNAstorage
